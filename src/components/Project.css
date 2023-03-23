@@ -1,0 +1,251 @@
+.image{
+margin-left: 38%;
+} 
+.htag h6{
+    text-align: center;
+}
+.htag h5{
+   text-align: center;
+   font-size: medium;
+}
+.htag {
+    margin-top: 3%;
+} 
+.login5 h5 {
+    margin-left: 70%;
+    font-size: medium;
+}
+ .sign6 h6{
+    margin-left: 10%;
+} 
+.data{
+    text-align: center;
+    margin-left: -75px;
+ }
+.data input{
+    border-radius: 28px;
+    margin-top: 13px;
+    padding: 7px;
+    padding-right: 11%;
+    padding-left: 12px;
+    border: 1px solid black;
+}
+.data button{
+    
+    margin-top: 4%;
+    padding-left: 11%;
+    padding-right: 11%;
+    border-radius: 32px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    background-color: rgb(250, 8, 189);
+    color: white;
+    border: none;
+
+}
+.data p{
+    margin-top: 2%;
+    margin-left: 20%;
+    color:  rgb(250, 8, 189);
+}
+.data h6{
+    text-align: center;
+
+}
+
+.pic{
+    margin-left:40%;
+    word-spacing: 10px;
+    /* border: 1px solid black;
+    /* font-size: 3px; */
+    /* height: 39px; */
+    /* padding: 5px */ 
+}
+
+
+.ptag span  {
+    color: rgb(250, 8, 189); 
+   }
+.ptag h5{
+margin-right: 6%;
+font-size: medium;
+
+}
+.ptag  h5 span {
+    text-decoration-line: underline;
+}
+.ptag h6{
+    text-align: center;
+    margin-left: -40px;
+    margin-top: 14px;
+}
+.ptag{
+    text-align: center;
+}
+.google{
+    
+    border: 1px solid black;
+    border-radius: 40px;
+    height: 39px;
+    padding: 8px;
+    /* background-color: white; */
+    border-color: antiquewhite;
+    margin: -39px;
+}
+
+.facebook{
+    margin-left: 43px;
+    border: 1px solid black;
+    border-radius: 40px;
+    height: 39px;
+    padding: 8px;
+    /* background-color: white; */
+    border-color: antiquewhite;
+    
+}
+.twitter{
+    border: 1px solid black;
+    border-radius: 40px;
+    height: 39px;
+    padding: 8px;
+    /* background-color: white; */
+    border-color: antiquewhite;
+    margin-left: 41px;
+}
+.left{
+    display: inline-block;
+    /* margin: 15px; */
+}
+
+.line{
+   
+    margin-left: 59%;
+    /* border-color: pink; */
+    color: rgb(250, 8, 189);
+    outline-style: auto;
+}
+
+.facebook-icon{
+    color: blue;
+}
+/* this code is mobaile */
+
+@media screen and (max-width:480px){
+    
+
+.line{
+    margin-left: -11px;
+    width: 51%
+}
+.image{
+    margin-left: 70px;
+    margin-top: 46px;
+}
+.htag h6{
+    font-size: 13px;
+    text-align: center;
+    margin-top: 25px;
+}
+.htag h5{
+    font-size: 13px;
+    text-align: center;
+    margin-top: -5px;
+}
+.login5 h5{
+    font-size: medium;
+    margin-left: 34px;
+}
+.sign6 h6{
+    margin-left: 68%;
+    /* margin-bottom: -11px; */
+    margin-top: -52px;
+}
+.data{
+    text-align: center;
+}
+.data button{
+    margin-top: 4%;
+    padding-left: 18%;
+    padding-right: 18%;
+    border-radius: 32px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    background-color: rgb(250, 8, 189);
+    color: white;
+    border: none;
+    margin-left: 61px;
+}
+.data p{
+    text-align: right;
+    /* margin-left: 9px; */
+    margin-right: 0p;
+    margin-right: 92px;
+    font-size: 13px;
+    color: rgb(250, 8, 189);
+}
+.data h6{
+    text-align: center;
+}
+.left{
+    margin-left: 10px;
+    
+}
+.google{
+    margin-left: 5px;
+    border: 1px solid black;
+    border-radius: 40px;
+    height: 39px;
+    padding: 8px;
+    /* background-color: white; */
+    border-color: antiquewhite;
+    margin: -70px;
+}
+.facebook{
+    
+    margin-left: 5px;
+    border: 1px solid black;
+    border-radius: 40px;
+    height: 39px;
+    padding: 8px;
+    /* background-color: white; */
+    border-color: antiquewhite;
+    margin: -21px;
+}
+.twitter{
+    
+    margin-left: 5px;
+    border: 1px solid black;
+    border-radius: 40px;
+    height: 39px;
+    padding: 8px;
+    /* background-color: white; */
+    border-color: antiquewhite;
+    margin-left: 27px;
+}
+
+.ptag h6{
+    text-align: center;
+    font-size: 11px;
+    margin-top: 10px;
+    margin-left: -7px;
+}
+.ptag h5{
+    font-size: 11px;
+}
+.data h6{
+    font-size: 12px;
+    margin-left: 62px;
+    text-align: center;
+}
+.data input{
+
+        border-radius: 28px;
+        margin-top: 13px;
+        padding: 7px;
+        padding-right: 11px;
+        padding-left: 11px;
+        border: 1px solid black;
+        margin-left: 72px;
+
+}
+}
